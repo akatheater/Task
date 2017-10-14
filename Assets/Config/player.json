@@ -1,10 +1,10 @@
 {
-    "speed": 10,
-    "atk": 4,
-    "skill CD": 8,
-    "skill duration": 3,
-    "X min": -8,
-    "X max": 8,
+    "speed": 8,
+    "atk": 3,
+    "skill CD": 9,
+    "skill duration": 2,
+    "X min": -9,
+    "X max": 9,
     "Y min": -2.2,
     "Y max": 1.5
 }

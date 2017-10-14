@@ -1,8 +1,8 @@
 {
 	"config" : {
 		"level" : 3,
-		"spawnTime" : 1.0,
-		"spawnDeltaTime" : 2.0
+		"spawnTime" : 2.0,
+		"spawnDeltaTime" : 2.5
 	},
 	"levels" : [
 		{
@@ -12,11 +12,11 @@
 					"quantity" : 1
 				},
 				{
-					"id" : 2,
-					"quantity" : 1
+					"id" : 1,
+					"quantity" : 2
 				},
 				{
-					"id" : 1,
+					"id" : 2,
 					"quantity" : 2
 				}					
 			]
@@ -29,11 +29,11 @@
 				},
 				{
 					"id" : 2,
-					"quantity" : 1
+					"quantity" : 2
 				},
 				{
 					"id" : 3,
-					"quantity" : 1
+					"quantity" : 2
 				}
 			
 			]
@@ -46,7 +46,7 @@
 				},
 				{
 					"id" : 4,
-					"quantity" : 1
+					"quantity" : 2
 				}	
 			]
 		}
